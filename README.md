@@ -1,16 +1,15 @@
-## Hi there 👋
+## Olá! Eu sou o Lucas 👋
 
-<!--
-**lucasavpaul4/lucasavpaul4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Ciência da Computação, atualmente no 4º período.
 
-Here are some ideas to get you started:
+💻 Tenho interesse em desenvolvimento de software e estou sempre buscando aprender e aprimorar minhas habilidades.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Tecnologias que estudo e utilizo:
+
+Java,
+Angular,
+HTML5,
+CSS3,
+SQL
+
+📚 Aqui compartilho meus projetos, estudos e minha evolução na área de tecnologia.
